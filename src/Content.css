@@ -1,0 +1,12 @@
+.content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+}
+  
+.menu {
+    color: white;
+    font-size: 100px;
+}
