@@ -27,5 +27,8 @@ module.exports = {
         ],
       },
     ],
+    'object-property-newline': ['error', {
+      allowAllPropertiesOnSameLine: false,
+    }],
   },
 };
